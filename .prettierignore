@@ -1,0 +1,10 @@
+dist
+src/aws-exports.js
+index.js
+react-native.config.js
+src/API.ts
+src/graphql/mutations.ts
+src/graphql/queries.ts
+src/graphql/subscriptions.ts
+node_modules
+scripts
